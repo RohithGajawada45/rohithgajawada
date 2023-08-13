@@ -12,7 +12,6 @@ const smtpConfig = {
     secure: true,
     auth: {
         user: 'PinggMeee@proton.me',
-        pass: '!12!23@PinggMeee'
     }
 };
 
